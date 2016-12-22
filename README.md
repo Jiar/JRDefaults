@@ -1,0 +1,2 @@
+# JRDefaults
+用更加Swift化的方式使用UserDefaults，取代原先使用泛字符串类型API的使用方式。
